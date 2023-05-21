@@ -14,9 +14,10 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+PhD Student in Machine Learning at UCL
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in the [Foundational AI CDT](https://www.ucl.ac.uk/ai-centre/study/cdt-foundational-ai/current-student-profiles) at University College London where I am supervised by [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/). Previously, I obtained a MSc. in Computational Statistics and Machine Learning from UCL and a BSc in Economics from the University of Warwick.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests during my PhD have been in the application of Game-Theoretic concepts to the study of multi-agent systems. I am currently interested in extending these frameworks to autonomous agents that interact through LLMs.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+If you are interested in my work or would like to chat about common interests, potential collaborations etc... please do reach out!
